@@ -1,0 +1,15 @@
+Jones:{"lastname":"Jones", "firstname":"Bob", "email":"bob@example.com"}
+Pruitt:{"lastname":"Pruitt", "firstname":"Allie", "email":"allie@example.com"}
+Krause:{"lastname":"Krause", "firstname":"Duncan", "email":"duncan@example.com"}
+Chase:{"lastname":"Chase", "firstname":"Juana", "email":"juana@example.com"}
+Estrada:{"lastname":"Estrada", "firstname":"Edward", "email":"edward@example.com"}
+Singleton:{"lastname":"Singleton", "firstname":"Marie", "email":"Marie@example.com"}
+Poole:{"lastname":"Poole", "firstname":"Olivia", "email":"olivia@example.com"}
+Marks:{"lastname":"Marks", "firstname":"Timothy", "email":"timothy@example.com"}
+Suarez:{"lastname":"Suarez", "firstname":"Claud", "email":"claud@example.com"}
+Sloan:{"lastname":"Sloan", "firstname":"Eloy", "email":"eloy@example.com"}
+Rodriguez:{"lastname":"Rodriguez", "firstname":"Gale", "email":"gale@example.com"}
+Bautista:{"lastname":"Bautista", "firstname":"Constance", "email":"Constance@example.com"}
+Mcintyre:{"lastname":"Mcintyre", "firstname":"Donte", "email":"donte@example.com"}
+Lang:{"lastname":"Lang", "firstname":"Willa", "email":"willa@example.com"}
+Richmond:{"lastname":"Richmond", "firstname":"Dionne", "email":"dionne@example.com"}
